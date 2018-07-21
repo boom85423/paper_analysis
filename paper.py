@@ -106,6 +106,7 @@ if __name__ == '__main__':
     # plt.show()
 
     #### TF-IDF ####
+    # pool = mp.Pool()
     # focus_job = [pool.apply_async(get_focus, args=(i,)) for i in links]
     # focus = [i.get() for i in focus_job]
     # for i,j in zip(range(len(focus)), focus):
