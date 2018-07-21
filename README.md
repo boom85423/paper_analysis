@@ -7,7 +7,7 @@
     <h2>Lab1 : World Cloud about the professor</h2>   
     <ul class="lab">
         <li>Use jieba to break the world if necessary</li>
-        <li><a href="https://researchoutput.ncku.edu.tw/zh/persons/cheng-te-li/publications/">cheng-te-li PhD/</a></li>
+        <li>e.g.,<a href="https://researchoutput.ncku.edu.tw/zh/persons/cheng-te-li/publications/">cheng-te-li PhD</a></li>
         <img src="https://i.imgur.com/yWHKTmV.png">
     </ul>
     <h2>Lab2 : Recommend similar papers</h2>
